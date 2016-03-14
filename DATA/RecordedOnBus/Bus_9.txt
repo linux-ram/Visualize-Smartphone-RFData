@@ -1,0 +1,33 @@
+10:24:begin
+10:25:bus stop
+(13 samples)
+10:26:bus stop
+10:27:red light,dist traveled:610m
+10:28:moving
+10:29:red light
+10:29:moving
+(33 samples)
+10:30:bus stop
+10:31 bus stop, dist traveled:1487m
+10:32:bus stop
+10:33:red light
+10:34:moving
+(87 samples)
+10:35:bus stop(Broadway),dist traveled:2558m
+10:35:moving
+10:35: red light
+10:36:moving
+10:36:bus stop(b street)
+10:36:moving
+10:38:bus stop
+10:38:moving,dist traveled:3181
+(131 samples)
+10:38:bus stop
+10:38:moving
+10:40:bus stop
+10:42:bus stop
+10:43:bus stop
+10:44:bus stop x2
+
+(221 samples)
+Dist traveled:5671m
