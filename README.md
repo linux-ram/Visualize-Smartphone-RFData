@@ -164,6 +164,8 @@ multiplot(p1, p2, p3, p4, cols = 4)
 dev.off()
 ```
 
+<img src="KeyFeaturesInRFdata.png" width="900">
+
 Let's now compute from the noise power in the signal.
 ```{r, eval = FALSE}
 p5 <- ggplot(radio_data, aes(x = time_elapsed_sec, y = 10^(0.1*rssi_avg)/ssnr))+geom_line(size=1.05, color="darkmagenta")+ggtitle('Computed Noise Power')+labs(x="Seconds", y="Noise Power") + theme(plot.title = element_text(face="bold", size=20)) + 
