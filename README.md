@@ -3,7 +3,7 @@ Visualizing Smart Phone Data from Wireless Network Monitoring App
 
 Please feel free to use the code in your research and development works. We would appreciate a citation to our work when this code is helpful in obtaining results in your future publications.
 
-This work was carried out by **Ram Subramanian** at GENESYS Lab, ECE Dept., NEU. *Wireless Network Monitoring App* was shared with us by Prof. Marco Di Felice, University of Bologna. Thanks to **James Delosh** and **Timothy Rupprecht** for their support in carrying out the experiments and data collection. 
+This work was carried out by **Ram Subramanian** at GENESYS Lab, ECE Dept., NEU. *Wireless Network Monitoring App* was shared with us by Prof. Marco Di Felice, University of Bologna. Refer to **Wireless_Network_Monitor_App.pdf** for details on the features in the data recorded by the App. Thanks to **James Delosh** and **Timothy Rupprecht** for their support in carrying out the experiments and data collection. 
 
 ### Initialize Workspace and Libraries
 
