@@ -57,7 +57,7 @@ BusStopsCoordinatesMA <- rbindlist(BusStopsCoordinatesMA)
 
 The script goes on to load all the necessary data that's gathered beforehand. 
 
-Snap-shot of the RF data in .csv format recorded by the App.
+A snap-shot of the RF data in .csv format recorded by the App.
 <img src="snapshot_of_App_data.png" width="900">
 
 We then retrieve the RF data from the .csv file.
