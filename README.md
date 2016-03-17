@@ -55,7 +55,12 @@ BusStopsCoordinatesMA <- lapply(BusRouteStops,Geocode_BusStops)
 BusStopsCoordinatesMA <- rbindlist(BusStopsCoordinatesMA)
 ```
 
-The script goes on to load all the necessary data that's gathered beforehand. We first retrieve RF data from the .csv file.
+The script goes on to load all the necessary data that's gathered beforehand. 
+
+Snap-shot of the RF data in .csv format recorded by the App.
+<img src="snapshot_of_App_data.png" width="900">
+
+We then retrieve the RF data from the .csv file.
 ```{r, eval = FALSE}
 #Retrieve RF data from CSV file
 #The .csv file is read and a data frame 'radio_data' is returned
